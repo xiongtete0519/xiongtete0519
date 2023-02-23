@@ -14,12 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=xiongtete0519&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"])
-
-### 你好，世界 👋
-
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+-->
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=xiongtete0519&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+-->
